@@ -39,4 +39,3 @@ Using the provided Makefile:
 ```bash
 make clean
 ```
-
